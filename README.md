@@ -31,7 +31,7 @@ A lightweight Python script that scrapes website content and exports the data to
    cd website-scraper
 3. Run the script:
     ```bash
-   python extractor.py
+   python weather_app.py
 ---
 ## 👨‍💻 Developer Information
 
